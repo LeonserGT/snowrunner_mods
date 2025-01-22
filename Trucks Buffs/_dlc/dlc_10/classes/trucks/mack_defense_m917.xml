@@ -89,7 +89,7 @@
 		EngineStartDelay="0.8"
 		ExhaustStartTime="0.9"
 		FuelCapacity="350"
-		Responsiveness="0.45"
+		Responsiveness="1.0"
 		SteerSpeed="0.025"
 		TruckImage="mackdefense917mchr"
 		TruckType="OFFROAD"

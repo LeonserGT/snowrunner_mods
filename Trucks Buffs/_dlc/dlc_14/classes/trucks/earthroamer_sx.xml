@@ -84,7 +84,7 @@
 		ExhaustStartTime="0"
 		InstallTrailerAddonRequired="earthroamer_sx_farkop_trailer, earthroamer_sx_farkop_scout_trailer"
 		FuelCapacity="280"
-		Responsiveness="0.4"
+		Responsiveness="1.0"
 		SteerSpeed="0.04"
 		TruckImage="EarthroamerSXmchr"
 		TruckType="SCOUT"

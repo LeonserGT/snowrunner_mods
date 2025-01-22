@@ -56,7 +56,7 @@
 		EngineStartDelay="3.2"
 		ExhaustStartTime="2.8"
 		FuelCapacity="290"
-		Responsiveness="0.3"
+		Responsiveness="1.0"
 		SteerSpeed="0.02"	
 		TruckImage="ws57xmchr"
 		TruckType="HIGHWAY"

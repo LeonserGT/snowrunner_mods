@@ -73,7 +73,7 @@
 		EngineStartDelay="0.8"
 		ExhaustStartTime="0.9"
 		FuelCapacity="380"
-		Responsiveness="0.45"
+		Responsiveness="1.0"
 		SteerSpeed="0.025"
 		TruckImage="kenworth990mchr"
 		TruckType="HIGHWAY"

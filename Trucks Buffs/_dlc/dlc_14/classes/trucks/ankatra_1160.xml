@@ -57,7 +57,7 @@
 		ExhaustStartTime="0.6"
 		FuelCapacity="180"
 		InstallTrailerAddonRequired="ankatra_1160_farkop_trailer, ankatra_1160_coupler"
-		Responsiveness="0.8"
+		Responsiveness="1.0"
 		SteerSpeed="0.02"
 		TruckImage="ankatramchr"
 		TruckType="OFFROAD"

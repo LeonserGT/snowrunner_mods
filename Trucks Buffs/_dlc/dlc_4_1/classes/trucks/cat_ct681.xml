@@ -70,7 +70,7 @@
 		EngineStartDelay="0.8"
 		ExhaustStartTime="0.9"
 		FuelCapacity="260"
-		Responsiveness="0.3"
+		Responsiveness="1.0"
 		SteerSpeed="0.025"
 		TruckImage="cat681mchr"
 		TruckType="HEAVY_DUTY"

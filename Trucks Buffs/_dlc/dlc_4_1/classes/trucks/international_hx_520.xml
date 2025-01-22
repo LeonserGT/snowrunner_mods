@@ -69,7 +69,7 @@
 		EngineStartDelay="0.8"
 		ExhaustStartTime="0.9"
 		FuelCapacity="280"
-		Responsiveness="0.3"
+		Responsiveness="1.0"
 		SteerSpeed="0.025"
 		TruckImage="internationalHx520mchr"
 		TruckType="HEAVY_DUTY"

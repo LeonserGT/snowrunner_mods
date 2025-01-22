@@ -87,7 +87,7 @@
 		EngineStartDelay="0.6"
 		ExhaustStartTime="0.6"
 		FuelCapacity="300"
-		Responsiveness="0.2"
+		Responsiveness="1.0"
 		SteerSpeed="0.017"
 		TruckImage="plad450mchr"
 		TruckType="HEAVY"

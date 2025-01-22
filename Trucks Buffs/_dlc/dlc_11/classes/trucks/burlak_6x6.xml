@@ -82,7 +82,7 @@
 		ExhaustStartTime="1.8"
 		FuelCapacity="280"
 		InstallTrailerAddonRequired="burlak_6x6_farkop_trailer, burlak_6x6_farkop_scout_trailer"
-		Responsiveness="0.5"
+		Responsiveness="1.0"
 		SteerSpeed="0.03"
 		TruckImage="Burlak6x6mchr"
 		TruckType="SCOUT"

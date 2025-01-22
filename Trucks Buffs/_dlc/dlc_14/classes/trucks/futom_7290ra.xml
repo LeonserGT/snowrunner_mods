@@ -37,7 +37,7 @@
 		EngineStartDelay="0.6"
 		ExhaustStartTime="0.6"
 		FuelCapacity="400"
-		Responsiveness="0.4"
+		Responsiveness="1.0"
 		SteerSpeed="0.015"
 		TruckImage="futom5000mchr"
 		TruckType="HEAVY"
