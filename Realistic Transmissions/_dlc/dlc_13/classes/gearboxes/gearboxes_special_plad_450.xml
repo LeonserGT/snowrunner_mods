@@ -11,13 +11,17 @@
 		MaxBreakFreq="23.0"
 	>
 		<ReverseGear AngVel="0.7" FuelModifier="0.9" />
-		<HighGear AngVel="6.0" FuelModifier="1.5" />
+		<HighGear AngVel="8.0" FuelModifier="0.8" />
 		<Gear AngVel="0.8" FuelModifier="1.8" />
-		<Gear AngVel="1.6" FuelModifier="1.6" />
-		<Gear AngVel="2.9" FuelModifier="1.4" />
-		<Gear AngVel="4.3" FuelModifier="1.2" />
-		<Gear AngVel="5.4" FuelModifier="1.1" />
-		<Gear AngVel="6.8" FuelModifier="1.0" />
+		<Gear AngVel="1.7" FuelModifier="1.6" />
+		<Gear AngVel="2.6" FuelModifier="1.4" />
+		<Gear AngVel="3.4" FuelModifier="1.2" />
+		<Gear AngVel="4.2" FuelModifier="1.1" />
+		<Gear AngVel="4.8" FuelModifier="0.9" />
+		<Gear AngVel="5.5" FuelModifier="0.7" />
+		<Gear AngVel="6.5" FuelModifier="0.6" />
+		<Gear AngVel="7.5" FuelModifier="0.5" />
+		<Gear AngVel="9.0" FuelModifier="0.4" />
 		<GameData
 			Price="7000"
 			UnlockByExploration="true"
