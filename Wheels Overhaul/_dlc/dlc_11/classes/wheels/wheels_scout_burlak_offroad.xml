@@ -12,8 +12,8 @@
 			<WheelFriction 
 				_template="Offroad"
 				BodyFriction="3.3"
-				BodyFrictionAsphalt="0.6"
-				SubstanceFriction="2.2"
+				BodyFrictionAsphalt="2"
+				SubstanceFriction="2.9"
 				IsIgnoreIce="true"
 			/>
 			<GameData
